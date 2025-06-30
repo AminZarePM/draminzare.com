@@ -6,9 +6,7 @@
 
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 
-<title>
-	{{site.name}}'s Homepage
-</title>
+<title>{{ page.title }} | {{site.name}}</title>
 
 {% seo %}
     
@@ -21,16 +19,8 @@
 </head>
 
 {% if jekyll.environment == 'production' %}
-	
 <!-- change your GA id in _config.yml -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{site.google_analytics}}"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', {{site.google_analytics}});
-</script>
-	
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
