@@ -22,14 +22,7 @@ authors:
     web: ''
     twitter: ''
     description: "Will be written"
-  john:
-    name: will be deleted
-    display_name: will be deleted    
-    avatar: 'assets/images/avatar.png'
-    email: ''
-    web: ''
-    twitter: ''
-    description: "gonna go"
+
 
 # Plugins
 plugins:
