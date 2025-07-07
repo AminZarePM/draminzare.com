@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Story"
+title:  "My Story 2"
 author: AminZare
 categories: [ Lifestyle ]
 image: assets/images/1.jpg
