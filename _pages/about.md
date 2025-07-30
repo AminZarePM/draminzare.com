@@ -1,10 +1,10 @@
 ---
 layout: page
 title:  "My Story"
-author: AminZare
-categories: [ About, Personal, HealthTech ]
 image: assets/images/About-img.JPG
+permalink: /about
 comments: false
+imageshadow: true
 ---
 
 ## About Me
