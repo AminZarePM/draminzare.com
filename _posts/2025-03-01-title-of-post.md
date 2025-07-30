@@ -3,7 +3,7 @@ layout: post
 title:  "My Story"
 author: AminZare
 categories: [ About, Personal, HealthTech ]
-image: assets/images/1.jpg
+image: assets/images/About-img.JPG
 ---
 
 ## About Me
@@ -39,7 +39,7 @@ The answer is simple — but layered.
 
 From the beginning, my passion for medicine and technology grew side by side. I was never just curious about treating patients one by one — I was driven to rethink **how** care is delivered, and how we can make healthcare work better for more people.
 
-When I discovered the world of digital health and clinical system design, I saw clearly where I could create real, scalable impact. Working with tools like HIS, EHR, and CDSS, and studying health information systems and change management, I realized something:
+When I discovered the world of digital health and clinical system design, I saw clearly where I could create real, scalable impact. Working with tools like HIS, EHR, and CDSS, and studying health information systems & change management, I realized something:
 **it’s not just about healing — it’s about redesigning the system to enable healing at scale.**
 
 That’s why I build.
