@@ -10,11 +10,11 @@ image: assets/images/1.jpg
 
 Some journeys begin with a destination in mind.  
 Mine began with a question:  
-**“What can I build that will outlive me?”**
+**“What can I build that improves lives — something with a lasting impact on society?”**
 
 While studying medicine, I was drawn to more than clinical knowledge. I saw the limits of individual care and felt a deeper pull: to design solutions that scale beyond one patient, one diagnosis, one doctor.
 
-That’s why, early on, I joined **healthcare entrepreneurship Olympiads** — and then founded *Nobel Learn*, a healthcare-focused LMS that trained over **5,000 students** and grew into a 10-person team under my leadership.
+That’s why, early on, I joined **healthcare entrepreneurship and Medical Education Olympiads** — and then founded *Nobel Learn*, a healthcare-focused LMS that trained over **5,000 students** and grew into a 10-person team under my leadership.
 
 This wasn't just a side project. It was the beginning of a belief that became my motto:
 
@@ -24,25 +24,27 @@ I began exploring the intersections of **clinical practice, data, and technology
 
 Today, I serve as a **Product Manager at mom.ir**, where I lead the design and strategy for our **AI product team** — working on conversational agents, clinical assistants, and outcome prediction tools tailored to fertility care.
 
-I also drive improvements across our **Health Information System (HIS)**, aligning tech with real-world IVF and surgical workflows. I act as a translator between engineering and clinical teams — because innovation only works when everyone speaks the same language.
+I also drive improvements across our **Health Information System (HIS)**, aligning tech with real-world IVF and surgical workflows. I act as a translator between engineering and clinical teams.
 
-I hold an **M.D. from Tehran University of Medical Sciences** and an **MBA in Digital Transformation** — a mix that helps me bridge the strategic, the scientific, and the deeply human.
+I hold an **M.D. from Tehran University of Medical Sciences** and an **MBA in Digital Transformation from Industrial Management Institute** — a mix that helps me bridge the strategic, the scientific, and the deeply human.
 
 ---
 
 ## Why I Build
 
-Because some people fix what’s broken.  
-**I build what’s missing.**
+People often ask me:
+*“As someone trained in medicine, why move into product management?”*
 
-My purpose lies in transforming how people **experience healthcare** — with better access, more empathy, and smarter, human-centered systems.
+The answer is simple — but layered.
 
-Every product I work on carries that intention.  
-Every roadmap reflects that vision.
+From the beginning, my passion for medicine and technology grew side by side. I was never just curious about treating patients one by one — I was driven to rethink **how** care is delivered, and how we can make healthcare work better for more people.
 
-And if one day I’m no longer here to explain it,  
-**I hope the work speaks for itself.**
+When I discovered the world of digital health and clinical system design, I saw clearly where I could create real, scalable impact. Working with tools like HIS, EHR, and CDSS, and studying health information systems and change management, I realized something:
+**it’s not just about healing — it’s about redesigning the system to enable healing at scale.**
 
+That’s why I build.
+Not just to fix what's broken —
+**but to reshape how things are done in healthcare.**
 ---
 
 ### Let’s Build Together
