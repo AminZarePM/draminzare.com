@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "My Story"
 author: AminZare
 categories: [ About, Personal, HealthTech ]
